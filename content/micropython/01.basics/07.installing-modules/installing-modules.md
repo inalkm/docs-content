@@ -54,7 +54,7 @@ You can install by specifying the **organisation** and **repository**:
 
 ```python
 import mip
-mip.install(github:org/repo)
+mip.install("github:org/repo")
 ```
 
 Or you can specify the url to the file you want to install:
